@@ -1,0 +1,23 @@
+ilabel {
+  margin: 0;
+  font-size: 0.9rem;
+  width: 100%;
+  padding: 0 5.6px;
+}
+
+.input-container {
+  width: 100%;
+
+  input {
+    font-size: 1.1rem;
+    padding: 4.6px;
+    border: var(--light-border);
+    margin-bottom: 3.5px;
+    width: 100%;
+    color: var(--dark);
+
+    &::placeholder {
+      font-size: 0.9rem;
+    }
+  }
+}

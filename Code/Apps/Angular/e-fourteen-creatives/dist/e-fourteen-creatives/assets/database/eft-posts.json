@@ -1,0 +1,23 @@
+[{
+    "postid": 1,
+    "postauthor": "e14talents",
+    "posturl": "efourteentalents",
+    "postbody": "Welcome To E-14-TALENTS your one stop site for all the greatness of fort beaufort",
+    "postupvotes": 0,
+    "postdownvotes": 0,
+    "postdate": {
+      "$date": "2022-04-02T16:08:40.808Z"
+    }
+  },
+  {
+    "postid": 2,
+    "postauthor": "e14talents",
+    "posturl": "efourteentalents",
+    "postbody": "Click The Links To Browse Through The Application > Checkout Your Profile On The Profile Button ",
+    "postupvotes": 0,
+    "postdownvotes": 0,
+    "postdate": {
+      "$date": "2022-04-02T16:10:90.808Z"
+    }
+  }
+]

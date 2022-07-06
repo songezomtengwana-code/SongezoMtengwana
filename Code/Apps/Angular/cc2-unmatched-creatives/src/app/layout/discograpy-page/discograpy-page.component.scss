@@ -1,0 +1,160 @@
+.discography {
+  display: flex;
+  flex-flow: column;
+
+  .discography-container {
+    display: block;
+
+    // page navbar
+    .discography-container-nav {
+      display: flex;
+      justify-content: flex-start;
+      padding: 0.85em;
+      font-size: 2em;
+      position: fixed;
+      width: 100%;
+      background-color: transparent;
+
+      .discography-container-nav-icon {
+        background: transparent;
+        margin: 0 2rem 0 0;
+        line-height: 1;
+        cursor: pointer;
+        color: var(--amber);
+      }
+
+      .discography-container-nav-artist {
+        opacity: 0;
+        color: var(--amber);
+        font-size: 1.3em;
+        background-color: transparent;
+        margin: 0 2rem;
+      }
+    }
+
+    .discography-container-banner {
+      height: 40vh;
+      display: flex;
+      padding: 3em 0;
+
+      .discography-container-banner-img {
+        image-rendering: smooth;
+        object-fit: cover;
+        object-position: center;
+        margin: 0em 5em;
+        border-radius: 50%;
+        width: 290px;
+        height: 275px;
+      }
+
+      .discography-container-banner-details {
+        display: flex;
+        padding: 0 1em;
+        flex-flow: column;
+        justify-content: center;
+
+        .discography-container-banner-details-cover {
+
+          .discography-container-banner-details-title {
+            font-size: 3.5em;
+            font-weight: 600;
+            color: var(--amber);
+          }
+
+          .discography-container-banner-details-latest {
+            padding: 2.5em;
+          }
+
+          .discography-container-banner-details-tag {
+            color: #bebebe;
+            font-size: .85em;
+            font-weight: 100;
+            margin: .5em 0;
+          }
+
+          .discography-container-banner-details-bio {
+            font-size: 1.5em;
+            margin: 1em;
+            color: whitesmoke;
+          }
+        }
+
+        .discography-container-banner-details-links {
+          display: flex;
+          flex-flow: row;
+          margin-top: 1em;
+          justify-content: flex-end;
+          margin-right: 2em;
+
+          a {
+            margin-left: 1em;
+            font-size: 1.25rem;
+            text-decoration: none;
+            font-weight: 300;
+
+            &:first-of-type {
+              margin-left: unset;
+            }
+
+            &:hover {
+              transition: 1s;
+              color: white;
+            }
+          }
+        }
+      }
+    }
+
+    .discography-container-body {
+      padding: 5em;
+
+      .discography-container-body-title {
+        font-size: 3.5rem;
+        margin: 2.5rem 0;
+        color: var(--amber);
+      }
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .discography-container-banner {
+    height: 65vh !important;
+    max-height: 65vh !important;
+    flex-flow: column !important;
+    align-items: center !important;
+    padding: unset !important;
+    padding-top: 3rem !important;
+
+    .discography-container-banner-img {
+      height: 250px !important;
+      width: 250px !important;
+    }
+
+    .discography-container-banner-details {
+      margin: 1em 0 !important;
+      align-items: center;
+
+      .discography-container-banner-details-cover {
+        text-align: center !important;
+        display: flex !important;
+        flex-flow: column !important;
+        justify-content: space-between !important;
+      }
+
+      .discography-container-banner-details-links {
+        margin: unset !important;
+        font-size: 2rem !important;
+        justify-content: center !important;
+      }
+    }
+  }
+
+  .discography-container-body {
+    padding: 2rem !important;
+
+    .discography-container-body-title {
+      text-align: center;
+    }
+  }
+}

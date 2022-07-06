@@ -1,0 +1,697 @@
+[{
+    "_id": "12740774-9396-45d7-9cca-c27da6b31502",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "Stunner",
+    "artisttag": "thegreatstunner",
+    "artistimg": "./assets/img/stunner.png",
+    "artistbio": "A film and video production studio that captures sensational motion pictures, creating beautiful memories and bringing stories to life",
+    "artistry": [
+      "Filmographer"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-instagram",
+        "fonticoncolor": "color-white",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/thegreat_stunner/"
+      },
+      {
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/Unmatched-Creatives-102890861820974"
+      },
+      {
+        "fonticon": "fab fa-youtube",
+        "fonticoncolor": "color-youtube-red",
+        "linkname": "YouTube",
+        "link": "https://www.youtube.com/channel/UCd0RHsAKuSYb-fNBLxygt6g"
+      }
+    ],
+    "library": [{
+        "imgurl": "https://i.ytimg.com/vi/sbOTu9Vnfi4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGw93R3g79D1RzkgPf6kXIHvQ8UQ",
+        "title": "Parker Geeh - Burried Deep (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=sbOTu9Vnfi4",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i.ytimg.com/vi/xUSgxQaIOkc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCkI7kV-Fc77BJf94L777_oFZUJQ",
+        "title": "Styles Bambiso - Slim Evolution Concepts Cypher (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "title": "D-Eyzho & Parker Geeh - Get Paid (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=SZxH_KXSTqo",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://www.youtube.com/watch?v=ZlmDwjgQ4L4",
+        "title": "SK TUMMYGUN - NKALAKATHA | OFFICIAL MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+        "title": "Chosen One - Dinny TM | Official Music Video",
+        "imgurl": "https://i.ytimg.com/vi/tiGdCu82izQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAw8JYU8WJOhcZ1l9KB4eB5roiASw",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      }
+    ],
+    "discography": [{
+        "name": "Parker Geeh - Burried Deep",
+        "imgurl": "https://i.ytimg.com/vi/sbOTu9Vnfi4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGw93R3g79D1RzkgPf6kXIHvQ8UQ",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=sbOTu9Vnfi4",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=sbOTu9Vnfi4",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          }
+        ]
+
+      },
+      {
+        "name": "Styles Bambiso - Slim Evolution Concepts Cypher",
+        "imgurl": "https://i.ytimg.com/vi/xUSgxQaIOkc/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCkI7kV-Fc77BJf94L777_oFZUJQ",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "name": "D-Eyzho & Parker Geeh - Get Paid",
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=SZxH_KXSTqo",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://open.spotify.com",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://music.apple.com/",
+            "linkname": "Itunes",
+            "linkicon": "fab fa-itunes-note",
+            "linkiconbg": "bg-instagram"
+          }
+        ]
+      },
+      {
+        "name": "SK TUMMYGUN - NKALAKATHA",
+        "imgurl": "https://www.youtube.com/watch?v=ZlmDwjgQ4L4",
+        "links": [{
+          "link": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+          "linkname": "YouTube",
+          "linkicon": "fab fa-youtube",
+          "linkiconbg": "bg-youtube-red"
+        }]
+      },
+      {
+        "name": "Dinny Tm - Chosen One",
+        "imgurl": "./assets/img/dinnytm-chosenone.jpg",
+        "links": [{
+            "link": "https://open.spotify.com/album/5xewLHYyC1WGIJK841ilm6?si=ksLE7IAsdqUgOfg4qjl1A",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+            "linkname": "Youtube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.soundcloud.app.goo.gl/eyFEa56tnndFV4kx8",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "090c88f8-e634-4815-9b7e-23ab265549f9",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "Dinny TM",
+    "artisttag": "dinnytm",
+    "artistimg": "./assets/img/banner-dinnytm.png",
+    "artistbio": "I started hip-hop when I was young, look at me now - ndiyi Trouble Maker",
+    "artistry": [
+      "Artist",
+      "Rapper"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-instagram",
+        "fonticoncolor": "color-white",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/dinnytm/"
+      },
+      {
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/dinnytm.za"
+      },
+      {
+        "fonticon": "fa-brands fa-soundcloud",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "link": "https://soundcloud.com/dinnytm-za"
+      },
+      {
+        "fonticon": "fab fa-spotify",
+        "fonticoncolor": "color-spotify-green",
+        "linkname": "Spotify",
+        "link": "https://open.spotify.com/artist/6T9wZXzG79FWxWX4iiuFVM?si=16b4TNJbROCc5ZyiMT-wNg&dl_branch=1"
+      },
+      {
+        "fonticon": "fab fa-itunes-note",
+        "linkname": "Apple Music",
+        "fonticoncolor": "color-itunes-purple",
+        "link": "https://music.apple.com/us/artist/dinny-tm/1545855620"
+      }
+    ],
+    "library": [{
+        "imgurl": "https://i.ytimg.com/vi/tiGdCu82izQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAw8JYU8WJOhcZ1l9KB4eB5roiASw",
+        "title": "Chosen One - Dinny TM | Official Music Video",
+        "url": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+        "iconcolor": "color-youtube-red",
+        "icon": "fab fa-youtube"
+      },
+      {
+        "imgurl": "src/assets/img/dinnytm-chosenone.jpg",
+        "title": "Chosen One - Dinny TM | Official Audio",
+        "url": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+        "iconcolor": "color-spotify-green",
+        "icon": "fab fa-spotify"
+      },
+      {
+        "imgurl": "./assets/img/dinnytm-chosenone.jpg",
+        "title": "Chosen One - Dinny TM | Official Audio",
+        "url": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "./assets/img/dinnytm-godblessing.png",
+        "title": "God Blessing - Dinny TM | Official Audio",
+        "url": "https://www.youtube.com/watch?v=ygsLfUbwIyo",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      }
+    ],
+    "discography": [{
+        "name": "God Blessing",
+        "imgurl": "./assets/img/dinnytm-godblessing.png",
+        "links": [{
+            "link": "https://open.spotify.com/album/5xewLHYyC1WGIJK841ilm6?si=vrvyiyHSSCm42-ZDQHo0g",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=ygsLfUbwIyo",
+            "linkname": "Youtube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "name": "Chosen One",
+        "imgurl": "./assets/img/dinnytm-chosenone.jpg",
+        "links": [{
+            "link": "https://open.spotify.com/album/5xewLHYyC1WGIJK841ilm6?si=ksLE7IAsdqUgOfg4qjl1A",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+            "linkname": "Youtube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.soundcloud.app.goo.gl/eyFEa56tnndFV4kx8",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "name": "Chosen One Pt.2",
+        "imgurl": "./assets/img/dinnytm-chosenone2.png",
+        "links": [{
+            "link": "https://open.spotify.com/album/5xewLHYyC1WGIJK841ilm6?si=ksLE7IAsdqUgOfg4qjl1A",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=tiGdCu82izQ",
+            "linkname": "Youtube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.soundcloud.app.goo.gl/dtWqHpSfcbfepNGu6",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "24d6e1b9-05b2-418b-92ac-1e0cf4d754e8",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "Amanda Nodada",
+    "artisttag": "amandanodada",
+    "artistimg": "./assets/img/amandanodada-model-2.png",
+    "artistbio": "You can have anything you want in life if you dress for it",
+    "artistry": [
+      "Fashion Model"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-instagram",
+        "fonticoncolor": "color-white",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/p/COs605ihWAs/?utm_source=ig_web_copy_link"
+      },
+      {
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://www.facebook.com/102890861820974/posts/164855928957800/?d=n"
+      }
+    ],
+    "library": [{
+        "imgurl": "./assets/img/amandanodada-model-1.png",
+        "title": "You can have anything you want in the world if you dress for it",
+        "url": "https://www.instagram.com/p/CQb35aOhPkk/",
+        "icon": "fab fa-instagram",
+        "iconcolor": "color-instagram"
+      },
+      {
+        "imgurl": "./assets/img/amandanodada-model-2.png",
+        "title": "Dream, Sparkle And Shine",
+        "url": "https://www.instagram.com/p/CPQ1XdWBDAE/",
+        "icon": "fab fa-instagram",
+        "iconcolor": "color-instagram"
+
+      },
+      {
+        "imgurl": "./assets/img/amandanodada-model-3.png",
+        "title": "City Streets Are The Real Runway",
+        "url": "https://www.instagram.com/p/COs605ihWAs/",
+        "icon": "fab fa-instagram",
+        "iconcolor": "color-instagram"
+
+      }
+    ],
+    "discography": [{
+        "name": "City Streets Are The Real Runway",
+        "imgurl": "./assets/img/amandanodada-model-3.png",
+        "links": [{
+            "link": "https://www.instagram.com/p/COs605ihWAs/",
+            "linkname": "Instagram",
+            "linkicon": "fab fa-instagram",
+            "linkiconbg": "bg-instagram"
+          },
+          {
+            "link": "https://www.instagram.com/p/COs605ihWAs/",
+            "linkname": "Twitter",
+            "linkicon": "fab fa-twitter",
+            "linkiconbg": "bg-twitter-blue"
+          }
+        ]
+      },
+      {
+        "name": "Dream, Sparkle And Shine",
+        "imgurl": "./assets/img/amandanodada-model-2.png",
+        "links": [{
+          "link": "https://www.instagram.com/p/CPQ1XdWBDAE/",
+          "linkname": "Instagram",
+          "linkicon": "fab fa-instagram",
+          "linkiconbg": "bg-instagram"
+        }]
+      },
+      {
+        "name": "You can have anything you want in the world if you dress for it",
+        "imgurl": "./assets/img/amandanodada-model-1.png",
+        "links": [{
+          "link": "https://www.instagram.com/p/CQb35aOhPkk/",
+          "linkname": "Instagram",
+          "linkicon": "fab fa-instagram",
+          "linkiconbg": "bg-instagram"
+        }]
+      }
+    ]
+  },
+  {
+    "_id": "33bc815e-ce97-4815-b7ce-6e4b029cefe6",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "Styles Bambiso",
+    "artisttag": "stylesbambuso",
+    "artistimg": "./assets/img/stylesbambiso.png",
+    "artistbio": "Discover what your talent is, develop it and focus on applying it towards making difference",
+    "artistry": [
+      "Rapper"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-instagram",
+        "fonticoncolor": "color-white",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/stylesbambiso/"
+      },
+      {
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/bulelani.styles"
+      },
+      {
+        "fonticon": "fa-brands fa-soundcloud",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "link": "https://soundcloud.com/styles-bulelani"
+      },
+      {
+        "fonticon": "fab fa-youtube",
+        "fonticoncolor": "color-youtube-red",
+        "linkname": "Youtube",
+        "link": "https://www.youtube.com/channel/UCIlAf2npTX--MiOmRDY1S2w"
+      }
+    ],
+    "library": [{
+        "imgurl": "https://i.ytimg.com/vi/xUSgxQaIOkc/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB83kTmRDS-hyAzXlQzcpQ54_Vjyw",
+        "title": "Styles Bambiso - Slim Evolution Concepts Cypher (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i.ytimg.com/vi/zAaP-oc4IMo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxm6WdDgrT9yI9gLyFW6pXc7jq1g",
+        "title": "Styles Bambiso - Singabalapha feat. Ndlulamthi (Prod by D Eyzho",
+        "url": "https://www.youtube.com/watch?v=zAaP-oc4IMo",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-000132264558-u7rktc-t500x500.jpg",
+        "title": "They Wanna Know Me",
+        "url": "https://soundcloud.com/styles-bulelani/they-wanna-know-me",
+        "icon": "fab fa-spotify",
+        "iconcolor": "color-spotify-green"
+      }
+    ],
+    "discography": [{
+        "name": "Singabalapha feat. Ndlulamthi (Prod by D Eyzho)",
+        "imgurl": "https://i.ytimg.com/vi/zAaP-oc4IMo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxm6WdDgrT9yI9gLyFW6pXc7jq1g",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=zAaP-oc4IMo",
+            "linkname": "Youtube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://www.youtube.com/watch?v=zAaP-oc4IMo",
+            "linkname": "Soundcloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "name": "They Wanna Know Me",
+        "imgurl": "https://i1.sndcdn.com/artworks-000132264558-u7rktc-t500x500.jpg",
+        "links": [{
+          "link": "https://soundcloud.com/styles-bulelani/they-wanna-know-me",
+          "linkname": "Soundcloud",
+          "linkicon": "fa-brands fa-soundcloud",
+          "linkiconbg": "bg-soundcloud-orange"
+        }]
+      },
+      {
+        "name": "Slim Evolution Concepts Cypher",
+        "imgurl": "https://i.ytimg.com/vi/xUSgxQaIOkc/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB83kTmRDS-hyAzXlQzcpQ54_Vjyw",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=xUSgxQaIOkc",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://unmatchedcreativesonline.web.app",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "72c32740-0677-4446-bc24-d2608308c635",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "Parker Geeh",
+    "artisttag": "parkergeehthesouljah",
+    "artistimg": "./assets/img/parkergeeh.png",
+    "artistbio": "lesson number one, it's not the drug it's the person/ lesson number two, remember love's not perfect..",
+    "artistry": [
+      "Street Poet"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-instagram",
+        "fonticoncolor": "color-white",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/parker_geeh/"
+      },
+      {
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/ParkerGeeh"
+      },
+      {
+        "fonticon": "fa-brands fa-soundcloud",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "link": "https://soundcloud.com/parker_geeh_the_souljah"
+      },
+      {
+        "fonticon": "fab fa-spotify",
+        "fonticoncolor": "color-spotify-green",
+        "linkname": "Spotify",
+        "link": "https://open.spotify.com/artist/7EArWsr7Z4SwWez1jjE3V1?si=MCmmlU5wQUCu_Dk0b3sewQ&dl_branch=1"
+      }
+    ],
+    "library": [{
+        "imgurl": "https://i.ytimg.com/vi/sbOTu9Vnfi4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGw93R3g79D1RzkgPf6kXIHvQ8UQ",
+        "title": "Parker Geeh - Burried Deep (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=sbOTu9Vnfi4",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "title": "D-Eyzho & Parker Geeh - Get Paid (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=SZxH_KXSTqo",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "title": "Godly Wave (Album)",
+        "url": "https://i.scdn.co/image/ab67616d00001e021e039d6fa6c80313cc74b7a7",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      }
+    ],
+    "discography": [{
+        "name": "Burried Deep",
+        "imgurl": "https://i.ytimg.com/vi/sbOTu9Vnfi4/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGw93R3g79D1RzkgPf6kXIHvQ8UQ",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=sbOTu9Vnfi4",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://open.spotify.com",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          },
+          {
+            "link": "https://music.apple.com/",
+            "linkname": "Itunes",
+            "linkicon": "fab fa-itunes-note",
+            "linkiconbg": "bg-instagram"
+          }
+        ]
+      },
+      {
+        "name": "Get Paid (with D-Eyzoh)",
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "links": [{
+            "link": "https://www.youtube.com/watch?v=SZxH_KXSTqo",
+            "linkname": "YouTube",
+            "linkicon": "fab fa-youtube",
+            "linkiconbg": "bg-youtube-red"
+          },
+          {
+            "link": "https://open.spotify.com",
+            "linkname": "Spotify",
+            "linkicon": "fab fa-spotify",
+            "linkiconbg": "bg-spotify-green"
+          }
+        ]
+      },
+      {
+        "name": "Godly Wave (Album)",
+        "imgurl": "https://i.ytimg.com/vi/SZxH_KXSTqo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC202THKphjkCVfKQJNam8bvzkehw",
+        "links": [{
+            "link": "https://music.apple.com/",
+            "linkname": "Itunes",
+            "linkicon": "fab fa-itunes-note",
+            "linkiconbg": "bg-instagram"
+          },
+          {
+            "link": "https://soundcloud.com/parker_geeh_the_souljah",
+            "linkname": "SoundCloud",
+            "linkicon": "fa-brands fa-soundcloud",
+            "linkiconbg": "bg-soundcloud-orange"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "e767687d-11ff-4caf-bfa3-ea5ca1c146a3",
+    "createdon": {
+      "$date": "2021-03-02T15:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2021-03-02T15:49:57.365Z"
+    },
+    "artistname": "SK Tummy Gunn",
+    "artisttag": "sktummygunn",
+    "artistimg": "./assets/img/sktummygunn.jpg",
+    "artistbio": "if she doesn't control you, its a temporary relationship 😌💙",
+    "artistry": [
+      "Vocalist",
+      "Rapper"
+    ],
+    "importantlinks": [{
+        "fonticon": "fab fa-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/skay.tummygun"
+      },
+      {
+        "fonticon": "fab fa-youtube",
+        "fonticoncolor": "color-youtube-red",
+        "linkname": "YouTube",
+        "link": "https://www.youtube.com/watch?v=ZlmDwjgQ4L4"
+      }
+    ],
+    "library": [{
+        "imgurl": "https://i.ytimg.com/vi/ZlmDwjgQ4L4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA5B-kHG-4FBebBovC9-dsF8MH-wg",
+        "title": "SK TUMMYGUN - NKALAKATHA | OFFICIAL MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=ZlmDwjgQ4L4",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      },
+      {
+        "imgurl": "./assets/img/sktummygunn.png",
+        "title": "SK TUMMYGUN | COMING SOON!",
+        "url": "javascript:void(0)",
+        "icon": "fab fa-youtube",
+        "iconcolor": "color-youtube-red"
+      }
+    ],
+    "discography": [{
+        "name": "NKALAKATHA",
+        "imgurl": "https://i.ytimg.com/vi/ZlmDwjgQ4L4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA5B-kHG-4FBebBovC9-dsF8MH-wg",
+        "links": [{
+          "link": "https://www.youtube.com/watch?v=ZlmDwjgQ4L4",
+          "linkname": "YouTube",
+          "linkicon": "fab fa-youtube",
+          "linkiconbg": "bg-youtube-red"
+        }]
+      },
+      {
+        "name": "COMMING SOON",
+        "imgurl": "./assets/img/sktummygunn.png",
+        "links": [{
+          "link": "javascript:void(0)",
+          "linkname": "Spotify",
+          "linkicon": "fab fa-spotify",
+          "linkiconbg": "bg-spotify-green"
+        }]
+      }
+    ]
+  }
+]

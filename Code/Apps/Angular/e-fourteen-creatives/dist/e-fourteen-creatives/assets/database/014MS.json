@@ -1,0 +1,922 @@
+[
+  {
+    "_id": "12740774-9396-45d7-9cca-c27da6b31502",
+    "createdon": {
+      "$date": "2022-05-25T09:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2022-05-25T15:49:57.365Z"
+    },
+    "artistname": "MakhandaZonke ZA",
+    "artisttag": "makhandazonkeza",
+    "artistimg": "./assets/images/artists/makhandazonke.png",
+    "artistprofile": "./assets/images/makhandazonke/profile.jpg",
+    "artistcover": "./assets/images/makhandazonke/banner.jpg",
+    "artistbio": "a sensational music producer with ecxellent production stats in all genres",
+    "artistry": [
+      "Producer",
+      "Song Writer",
+      "Rapper",
+      "Pianist",
+      "Beat Maker"
+    ],
+    "importantlinks": [
+      {
+        "fonticon": "bi bi-instagram",
+        "fonticoncolor": "color-black",
+        "linkname": "@makhandzazonkeza",
+        "link": "https://www.instagram.com/makhandazonke/"
+      },
+      {
+        "fonticon": "bi bi-envelope",
+        "fonticoncolor": "color-youtube-red",
+        "linkname": "@imakenicebeats@gmail.com",
+        "link": "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imakenicebeats@gmail.com"
+      },
+      {
+        "fonticon": "bi bi-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "@makhandzazonkeza",
+        "link": "https://www.facebook.com/Heavy.metal.king"
+      },
+      {
+        "fonticon": "bi bi-youtube",
+        "fonticoncolor": "color-youtube-red",
+        "linkname": "@makhandzazonkeza",
+        "link": "https://www.youtube.com/MakhandaZonke"
+      },
+      {
+        "fonticon": "bi bi-twitter",
+        "fonticoncolor": "color-twitter-blue",
+        "linkname": "@makhandzazonkeza",
+        "link": "https://twitter.com/makhandazonke"
+      },
+      {
+        "fonticon": "fab-fab-itunes",
+        "fonticoncolor": "color-itunes-rosegold",
+        "linkname": "Apple Music",
+        "link": "https://itunes.com"
+      },
+      {
+        "fonticon": "bi bi-spotify",
+        "fonticoncolor": "color-spotify-green",
+        "linkname": "Spotify",
+        "link": "https://open.spotify.com/user/MakhandaZonke"
+      },
+      {
+        "fontimage": "/assets/images/soundcloud.svg",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "fonticon": "fab fab-soundcloud",
+        "link": "https://soundcloud.com/enkosi-tsotsa"
+      },
+      {
+        "fontimage": "/assets/images/audiomack.png",
+        "fonticoncolor": "color-audiomack-gold",
+        "linkname": "Audiomack",
+        "fonticon": "fab fab-audiomack",
+        "link": "https://audiomack.com"
+      }
+    ],
+    "library": [
+      {
+        "imgurl": "https://assets.audiomack.com/yungnfteast/fb040f4eb02f5804a2c1b49b3a88c576410c61b164df5dfe5f754a0fe7bd2151.jpeg",
+        "year": 2022,
+        "single":true,
+        "genre": "Hip-Hop/Rap",
+        "contributes": "Flex Mantombie, Berry Cooder & Diiego",
+        "title": "eMaBhofi",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/combo-feat-flex-mantombie?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/emabhofi",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-49wzDq2PXQDO6a5y-k996Xg-t500x500.jpg",
+        "year": 2021,
+        "single": true,
+        "contributes": "Young Vision",
+        "title": "The Birds & The Bee's",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/the-birds-the-beesinterludeprod-by-makhandazonke-tonik-suave?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/makhandazonke/makhandaanthem.jpg",
+        "year": 2021,
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "contributes": null,
+        "title": "Makhanda Anthem",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/makhanda-anthem?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing ",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/makhanda-anthem",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://assets.audiomack.com/yungnfteast/b979d26b06dc3203c90d62bf3a22e74393c90042d5624bd658c80b57638f6b14.jpeg",
+        "year": 2021,
+        "album": true,
+        "genre": "Hip-Hop, Rap & Trap",
+        "contributes": "MakhandaZonke ZA & Young Vision",
+        "title": "Eargasm Ep",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/album/eargasm-ep",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://assets.audiomack.com/yungnfteast/b979d26b06dc3203c90d62bf3a22e74393c90042d5624bd658c80b57638f6b14.jpeg",
+        "year": 2021,
+        "album": true,
+        "genre":"Hip-Hop/Rap, Soul & Trap",
+        "contributes": "MakhandaZonke ZA & Young Vision",
+        "title": "Earth Without Ep",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/album/earth-wthout-art-ep-1",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-f6lUR0QvIpLiereA-x5t0SA-t500x500.jpg",
+        "year": 2021,
+        "single": true,
+        "genre": "Hip-Hop/Trap",
+        "contributes": "Em Jay Riisto & Tonic Suavé",
+        "title": "Running",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/running-prod-by-tonik-suave?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/runningprodby-tonik-suave",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-KvLHP0MPdG4Iqk6J-uRyeSg-t500x500.jpg",
+        "year": 2021,
+        "genre": "Hip-Hop/Trap",
+        "single": true,
+        "contributes": "Diiego17",
+        "title": "Abazondeza Niks",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/abazondenza-niks-makhandazonke?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/abazondenza-niksfeat-diiego17",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-y53cs0Pviz4uxe5X-ag26lA-t500x500.jpg",
+        "year": 2021,
+        "single": true,
+        "genre": "Hip-Hop/Soul",
+        "contributes": null,
+        "title": "Slow Copulation",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/slow-copulation-makhandazonke?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/slow-copulation",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-HFqgWchuzJ2nnXiv-HSzAJg-t500x500.jpg",
+        "year": 2021,
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "contributes": "Flex Mantombie, Berry Cooder & Diiego17",
+        "title": "Combo",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/combo-feat-flex-mantombie?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/combo",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-r5zmPdklpIyAQbWJ-5BfnqQ-t500x500.jpg",
+        "year": 2020,
+        "contributes": "MakhandaZonke ZA & Young Vision",
+        "title": "Abandazi",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/enkosi-tsotsa/abandazi-interlude-mp3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/yungnfteast/song/abandaziinterlude",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Itunes",
+            "url": "https://itunes.com",
+            "icon": "fab-fab-itunes",
+            "iconcolor": "color-itunes-rosegold"
+          },
+          {
+            "urlname": "YouTube Music",
+            "url": "http://youtube.com",
+            "icon": "bi bi-youtube",
+            "iconcolor": "color-youtube-red"
+          }
+        ]
+      }
+    ],
+    "comeup": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quos commodi voluptatum, enim pariatur veniam aliquam illo harum cumque corrupti voluptate dolorum, voluptatibus dicta eum. Reiciendis tenetur minus possimus nam illum repellat ipsam quia provident labore officiis necessitatibus neque voluptas ipsum aliquam molestiae aut alias praesentium obcaecati, quidem sapiente! Accusantium laborum labore consectetur aperiam voluptate non maxime nulla, sunt ipsa optio quidem libero iste. Explicabo ea provident distinctio sit quis, maiores magnam consectetur unde quae.",
+    "gallery": [
+      "./assets/images/makhandazonke/image.jpg",
+      "./assets/images/makhandazonke/image2.jpg",
+      "./assets/images/makhandazonke/tb&tb.jpg"
+    ]
+  },
+  {
+    "_id": "12740774-9396-45d7-9cc2-c27da6b31502",
+    "createdon": {
+      "$date": "2022-05-25T09:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2022-05-25T15:49:57.365Z"
+    },
+    "artistname": "Limiie Lk",
+    "artisttag": "limiielk",
+    "artistimg": "./assets/images/limiie/274x314.JPG",
+    "artistprofile": "./assets/images/limiie/contacts.jpg",
+    "artistcover": "./assets/images/limiie/mune-aah.jpg",
+    "artistbio": "young up and coming female rapper with spectacular rapping skill as well as heavy hits to back it up.",
+    "artistry": [
+      "Rapper"
+    ],
+    "importantlinks": [
+      {
+        "fonticon": "bi bi-instagram",
+        "fonticoncolor": "color-black",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/limiielk/"
+      },
+      {
+        "fonticon": "bi bi-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/heavymetalbeats"
+      },
+      {
+        "fonticon": "bi bi-twitter",
+        "fonticoncolor": "color-twitter-blue",
+        "linkname": "Twitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "fonticon": "fab-fab-itunes",
+        "fonticoncolor": "color-itunes-rosegold",
+        "linkname": "Apple Music",
+        "link": "https://itunes.com"
+      },
+      {
+        "fonticon": "bi bi-spotify",
+        "fonticoncolor": "color-spotify-green",
+        "linkname": "Spotify",
+        "link": "https://open.spotify.com"
+      },
+      {
+        "fontimage": "/assets/images/soundcloud.svg",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "icon": "fab fab-soundcloud",
+        "link": "https://soundcloud.com/user-560721050"
+      },
+      {
+        "fontimage": "/assets/images/audiomack.png",
+        "fonticoncolor": "color-audiomack-gold",
+        "linkname": "Audiomack",
+        "fonticon": "fab fab-audiomack",
+        "link": "https://audiomack.com/limiie-lk/limie-lk"
+      }
+    ],
+    "library": [
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-LzdyqwIWs9CIvPwI-ekpMnw-t500x500.jpg",
+        "year": 2022,
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "contributes": "Ashlley",
+        "title": "Facts Freestyle",
+        "urls": [
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/limiie-lk/song/facts-freestyle",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/user-560721050/facts-freestyle-mp3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/limiie/mune-aah.jpg",
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "year": 2022,
+        "title": "Mune Ahh",
+        "contributes": "MakhandaZonke ZA",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/user-560721050/mune-aah-mp3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/limiie/le-hook-igcwel-ibars.jpg",
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "year": 2021,
+        "contributes": "MakhandaZonke ZA",
+        "title": "Le hook igcwel ibars",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/user-560721050/le-hook-igcwelibars-limiie-lk?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/limiie-lk/song/mune-ahh",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-TznKQuKMwSfDySjt-FVQzaA-t500x500.jpg",
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "year": 2021,
+        "contributes": "MakhandaZonke ZA",
+        "title": "P.B.A.B.N",
+        "urls": [
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          },
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          }
+        ]
+      }
+    ],
+    "comeup": "Limikhaya Koyo whom you may know by stage her name Limiie Lk who's a Xhosa upcoming female artist based in the town of Fort Beaufort, Eastern Cape. Limmiie Lk began her music carrer on the year 2018 under the guidance of a also know rapper Kiing Beezy-5219 and released her very first single 'I Got The Money'. She Further on went to pair up with the Likes of MakhandaZonke, Alynner Raps, Ashlley & many other artists. Limiie Lk is set to reach greater hieghts in the music industry.",
+    "gallery": [
+      "./assets/images/limiie/contacts.jpg"
+    ]
+  },
+  {
+    "_id": "12740774-9396-45f7-9cca-c27da6b31502",
+    "createdon": {
+      "$date": "2022-05-25T09:49:56.808Z"
+    },
+    "lastused": {
+      "$date": "2022-05-25T15:49:57.365Z"
+    },
+    "artistname": "Wxrdsmith",
+    "artisttag": "wxrdtsotsa",
+    "artistimg": "./assets/images/wordsmith/wordsmith.png",
+    "artistprofile": "./assets/images/wordsmith/profile.jpg",
+    "artistcover": "./assets/images/wordsmith/worldclass.jpg",
+    "artistbio": "hip-hop artist based in fort beaufort, Eastern Cape with spectacular skill in his persuit of creating enterainin musical art.",
+    "artistry": [
+      "Rapper",
+      "Producer",
+      "Song Writer"
+    ],
+    "importantlinks": [
+      {
+        "fonticon": "bi bi-instagram",
+        "fonticoncolor": "color-black",
+        "linkname": "Instagram",
+        "link": "https://www.instagram.com/derichoworldwide"
+      },
+      {
+        "fonticon": "bi bi-facebook",
+        "fonticoncolor": "color-facebook-blue",
+        "linkname": "Facebook",
+        "link": "https://web.facebook.com/wxrdtsotsa"
+      },
+      {
+        "fonticon": "bi bi-twitter",
+        "fonticoncolor": "color-twitter-blue",
+        "linkname": "Twitter",
+        "link": "https://twitter.com"
+      },
+      {
+        "fonticon": "fab-fab-itunes",
+        "fonticoncolor": "color-itunes-rosegold",
+        "linkname": "Apple Music",
+        "link": "https://itunes.com"
+      },
+      {
+        "fonticon": "bi bi-spotify",
+        "fonticoncolor": "color-spotify-green",
+        "linkname": "Spotify",
+        "link": "https://open.spotify.com/artist/4xrBtXI8qEMjWa5OPAOigL"
+      },
+      {
+        "fontimage": "/assets/images/soundcloud.svg",
+        "fonticon": "fab fab-soundcloud",
+        "fonticoncolor": "color-soundcloud-orange",
+        "linkname": "Soundcloud",
+        "link": "https://soundcloud.com/wxrdtsotsa"
+      },
+      {
+        "fontimage": "/assets/images/audiomack.png",
+        "fonticoncolor": "color-audiomack-gold",
+        "linkname": "Audiomack",
+        "fonticon": "fab fab-audiomack",
+        "link": "https://audiomack.com/wxrdtsotsa"
+      }
+    ],
+    "library": [
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-yIGa8LzooKxz7T3r-O8yQvg-t500x500.jpg",
+        "year": 2022,
+        "single": true,
+        "genre": "Hip-Hop/Rap",
+        "title": "Fifty Shades 3",
+        "contributes": "MakhandaZonke ZA",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa/fifty-shades-okwesithathuprod-by-makhandazonke?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-yxcoRp4tafnBLzBo-Mxs4yw-t500x500.jpg",
+        "year": 2022,
+        "title": "4bidden($nippet)",
+        "genre": "Hip-Hop/Rap",
+        "contributes": null,
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa/4bidden?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "imgurl": "https://i1.sndcdn.com/artworks-Bm4hYgFGfuZNnLN9-daBtxA-t500x500.jpg",
+        "year": 2021,
+        "genre": "Hip-Hop/Rap",
+        "single": true,
+        "title": "Wenge",
+        "contributes": "Flex Mantombie, Berry Cooder & Diiego_14",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa/wenge-ft-flex-mantombie-berry?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/wordsmith/worldclass.jpg",
+        "year": 2021,
+        "title": "Worldcla$$ Mixtape",
+        "liecence": "Blaqnation ©",
+        "album": true,
+        "genre": "Hip-Hop/Rap, Soul & Trap",
+        "contributes": "MakhandaZonke ZA, Naviigator, Flex Mantombie, Berry Cooder & Diiego_14",
+        "type": "Mixtape",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/wxrdtsotsa/album/world-class",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/wordsmith/journi.jpg",
+        "year": 2021,
+        "genre": "Hip-Hop/Rap",
+        "single": true,
+        "title": "Journi",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa/journi-prod-by-makhandazonke?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Spotify",
+            "url": "https://open.spotify.com/track/3JqZQBszYeXuZTVxyYuip6?si=0dbabae12b19400b",
+            "icon": "bi bi-spotify",
+            "iconcolor": "color-spotify-green"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/wxrdtsotsa/song/journi",
+
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/wordsmith/fiftyshades2.0.jpg",
+        "year": 2020,
+        "genre": "Hip-Hop",
+        "single": true,
+        "liecence": "Blaqnation ©",
+        "contributes": "MakhandaZonke ZA, Krixx OV, Memphis & Young Vision",
+        "title": "Fifty Shades 2.0",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/wxrdtsotsa/song/fiftyshade20",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      },
+      {
+        "imgurl": "./assets/images/wordsmith/fiftyshades.jpg",
+        "year": 2019,
+        "genre": "Hip-Hop/Rap",
+      "single": true,
+        "title": "Fifty Shades",
+        "liecence": "Blaqnation ©",
+        "contributes": "MakhandaZonke ZA",
+        "urls": [
+          {
+            "urlname": "Soundcloud",
+            "icon": "fab fab-soundcloud",
+            "url": "https://soundcloud.com/wxrdtsotsa/fifty_shades-radio_edit?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "iconimage": "/assets/images/soundcloud.svg",
+            "iconcolor": "color-soundcloud-orange"
+          },
+          {
+            "urlname": "Audiomack",
+            "fonticon": "fab fab-audiomack",
+            "icon": "fab fab-audiomack",
+            "url": "https://audiomack.com/wxrdtsotsa/song/fifty-shadesradio-edit",
+            "iconimage": "/assets/images/audiomack.png",
+            "iconcolor": "color-audiomack-gold"
+          }
+        ]
+      }
+    ],
+    "comeup": "Asemahle 'De Richo/Wxrdsmiith' Tsotsa is a Musical Artist born in Fort Beaufort/eBhofolo. He found love for rap music back in 2013 at Sunday Cypher where local artists used to perform. In 2015 he recorded his first single as 'Dezza TheeViper.' He further worked with artist like Maykee, MakhandaZonke ZA, Crvzy-a , Doobie Stash, Flex Mantombie, SoulTheSon , YIISA and many more. He has been operating under the management of his older brother, MakhandaZonke ZA, who is also his role model. He describes his sound as 'Commercial Spaza' a combination of mainstream music and underground rap."
+  }
+]

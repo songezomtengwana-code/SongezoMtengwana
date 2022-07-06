@@ -1,0 +1,53 @@
+[{
+  "_id": "12740774-9396-45d7-9cca-c27da6b31502",
+  "registration": {
+    "$date": "2022-04-02T18:29:23.100Z"
+  },
+  "username": "e14talents",
+  "usertag": "efourteentalents",
+  "userimg": "./assets/images/users/songezomtengwana.jpg",
+  "userbio": "success is no accident. It is hardwork, perseverance, learning and most of all, love what you are doing . 💙",
+  "proffesion": [
+    "Developer"
+  ],
+  "importantlinks": [{
+      "fonticon": "bi bi-instagram",
+      "fonticoncolor": "color-white",
+      "linkname": "Instagram",
+      "link": "https://www.instagram.com/"
+    },
+    {
+      "fonticon": "bi bi-facebook",
+      "fonticoncolor": "color-facebook-blue",
+      "linkname": "Facebook",
+      "link": "https://web.facebook.com/"
+    },
+    {
+      "fonticon": "bi bi-youtube",
+      "fonticoncolor": "color-youtube-red",
+      "linkname": "YouTube",
+      "link": "https://www.youtube.com/"
+    }
+  ],
+  "posts": [{
+    "id": 1,
+    "author": "e14talents",
+    "url": "/users/efourteentalents",
+    "body": "Welcome To E-14-TALENTS your one stop site for all the greatness of fort beaufort",
+    "upvotes": 0,
+    "downvotes": 0,
+    "date": {
+      "$date": "2022-04-02T16:08:40.808Z"
+    }
+  }, {
+    "id": 2,
+    "author": "e14talents",
+    "url": "/users/efourteentalents",
+    "body": "Click The Links To Browse Through The Application > Checkout Your Profile On The Profile Button ",
+    "upvotes": 0,
+    "downvotes": 0,
+    "date": {
+      "$date": "2022-04-02T16:10:90.808Z"
+    }
+  }]
+}]

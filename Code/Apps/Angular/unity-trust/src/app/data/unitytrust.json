@@ -1,0 +1,119 @@
+[{
+    "staff": [{
+      "id": 1,
+      "name": "nosipho",
+      "rate": 5,
+      "description": "owner and discoverer of unity trust",
+      "imgUrl": "../../assets/staff-icons/default.png"
+    }, {
+      "id": 2,
+      "name": "songezo",
+      "rate": 2,
+      "description": "young fresh minded creative",
+      "imgUrl": "../../assets/staff-icons/songezo-header.png"
+    }, {
+      "id": 3,
+      "name": "nwabisa",
+      "rate": 4,
+      "description": "special confident and helpful",
+      "imgUrl": "../../assets/staff-icons/default.png"
+    }]
+  },
+  {
+    "services": [{
+        "id": 1912493462,
+        "Name": "Internet Access"
+      },
+      {
+        "id": 17508347245,
+        "Name": "Typing",
+        "Typing": [
+          "Reports",
+          "CV",
+          "Letter",
+          "Etc"
+        ]
+      },
+      {
+        "id": 2305730480,
+        "Name": "Programmes & Invitations",
+        "Programmes & Invitations": [
+          "Wedding",
+          "Event",
+          "Funeral",
+          "Party",
+          "Etc"
+        ]
+      },
+      {
+        "id": 3085456730,
+        "Name": "Laminating"
+      },
+      {
+        "id": 4508347245,
+        "Name": "Printing"
+      },
+      {
+        "id": 5508347244,
+        "Name": "Name Tags"
+      },
+      {
+        "id": 6508347245,
+        "Name": "Binding"
+      },
+      {
+        "id": 7508347245,
+        "Name": "Scan & Email"
+      },
+      {
+        "id": 8508347245,
+        "Name": "Fax"
+      },
+      {
+        "id": 9508347245,
+        "Name": "Business Card"
+      },
+      {
+        "id": 10508347245,
+        "Name": "Letterhead"
+      },
+      {
+        "id": 1108347245,
+        "Name": "Central Supplier DataBase Registration"
+      },
+      {
+        "id": 12508347245,
+        "Name": "Letter Of Good Standing"
+      },
+      {
+        "id": 13508347245,
+        "Name": "Cipro Returns"
+      },
+      {
+        "id": 14508347245,
+        "Name": "BEE Sworn Affidavit"
+      },
+      {
+        "id": 15508347245,
+        "Name": "SARS Returns And Compliance"
+      },
+      {
+        "id": 16508347245,
+        "Name": "Business Registration"
+      }
+    ]
+  },
+  {
+    "about": [{
+      "id": 3808436493349328463846,
+      "description": "Unity Trust Business Services Primary Co-Operative Ltd. is a company working in internet service providers located in Fort Beaufort, Eastern Cape, South Africa .",
+      "description2": "Here at Unity Trust we specialise in many aspects of internet services rendering to our clients at the very best , we also offer special legal documentation services of all type .",
+      "location": "21 Campbell St, Fort Beaufort, 5720, South Africa",
+      "open": "08:00AM",
+      "close": "18:00PM",
+      "landline": "+27 46 1375",
+      "website": "https//:unitytrust.web.app",
+      "holidays": false
+    }]
+  }
+]

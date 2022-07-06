@@ -1,0 +1,24 @@
+<section class="container flex-r-se" style="width: 1012px">
+  <div class="card" *ngFor="let staff of staffs">
+    <div class="card-top">
+      <img
+        src="{{ staff.imgUrl }}"
+        alt="{{ staff.name }}"
+        class="card-top-icons"
+      />
+    </div>
+    <div class="card-lower">
+      <div class="card-lower-name">{{ staff.name }}</div>
+      <div class="card-lower-description">
+        {{ staff.description }}
+      </div>
+      <div class="card-lower-rates">
+        <i class="bi bi-star-fill"></i>
+        <i class="bi bi-star-fill"></i>
+        <i class="bi bi-star-fill"></i>
+        <i class="bi bi-star-fill"></i>
+        <i class="bi bi-star-fill"></i>
+      </div>
+    </div>
+  </div>
+</section>

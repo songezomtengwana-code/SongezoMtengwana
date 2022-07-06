@@ -1,0 +1,116 @@
+{
+  "company": "014 Media Space ®",
+  "navicon": "./assets/images/014-icon.JPG",
+  "mainicon": "./assets/images/350x368.png",
+  "landing": "./assets/images/studio.jpeg",
+  "about": "014 Media Space is a indipendent music company based in Fort Beaufort owned by its sole member Enkosi Tsotsa who goes by the stage name MakhandaZonke ZA. 014 Media Space specializes on artist management for young, energetic, and insthusiastic talents in the music industry. We help manage young aspiring talent in thier quest of unlocking their true potential with the help of our services. At 014 Media Space we value our clients needs and be of service of them as much as possible .",
+  "services": [
+    {
+      "name": "radio plugging"
+    },
+    {
+      "name": "Music Registration"
+    },
+    {
+      "name": "Music Distribution"
+    },
+    {
+      "name": "Artist Bio"
+    },
+    {
+      "name": "Page Management"
+    }
+  ],
+  "owner": {
+    "name": "Enkosi Tsotsa",
+    "stage": "MakhandaZonke",
+    "email": "imakegoodbeats@gmail.com"
+  },
+  "footer": [
+    {
+      "title": "location",
+      "body": "20 Campbell Sreet, Fort Beaufort, 5720"
+    },
+    {
+      "title": "applinks",
+      "body": [
+        "https://zeroonefour.web.app/surf#about",
+        "https://zeroonefour.web.app/surf#artistry",
+        "https://zeroonefour.web.app/discography"
+      ]
+    }
+  ],
+  "beatstore": {
+    "banner": "./assets/images/beatstore.jpeg",
+    "about": "Welcome to our beatstore. Our beat store has a selection off type beats and special beats to choose from. We offer beats from all genres like hip-hop to amapiano instrumentals. view our options and make a purchase.",
+    "beats": [
+      {
+        "serial": "220628-hd043n27res210e1-rowvchjx",
+        "last-upload": {
+          "$date": 2206281738
+        },
+        "title": "kutakente",
+        "developer": "makhandazonke za",
+        "type": "lil tjay",
+        "duration": "2:42",
+        "cost": 120,
+        "genre": "rap",
+        "discount": false
+      },
+      {
+        "serial": "220628-384igdh2309euujiufwhodcri",
+        "last-upload": {
+          "$date": 2206281017
+        },
+        "title": "Tyler Herro",
+        "developer": "wxrdsmith",
+        "type": "jack harlow",
+        "duration": "2:36",
+        "cost": 170,
+        "genre": "trap",
+        "discount": true,
+        "dicountamount": 10
+      },
+      {
+        "serial": "220629-dee384igdhfjprinv3pwwrpv",
+        "last-upload": {
+          "$date": 2206292653
+        },
+        "title": "TALKKSiKK",
+        "developer": "wxrdsmith",
+        "type": "Flvme",
+        "duration": "4:16",
+        "cost": 390,
+        "genre": "trap/rap",
+        "discount": true,
+        "dicountamount": 10
+      }
+    ],
+    "currencies": [
+      {
+        "currency":"zar",
+        "function": "toRand()",
+        "method": 1,
+        "icon": "R"
+      },
+      {
+        "currency":"usd",
+        "function": "toDollar()",
+        "method": 14.7
+        ,"icon": "$"
+      },
+      {
+        "currency":"naira",
+        "function": "toNaira()",
+        "method": 9.4,
+        "icon": "₦"
+      },
+      {
+        "currency":"bitcoin",
+        "function": "toBitcoin()",
+        "method": 0.5
+        ,"icon": "฿"
+      }
+    ]
+  }
+}

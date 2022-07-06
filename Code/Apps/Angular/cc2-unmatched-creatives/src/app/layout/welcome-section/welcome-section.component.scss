@@ -1,0 +1,97 @@
+@media (max-width: 765px) {
+  .welcome-page-banner {
+    min-height: 100vh !important;
+
+    .welcome-page-banner-content {
+      margin: 135% 0 0 0 !important;
+      background-color: var(--darkfaint) !important;
+      position: relative !important;
+
+      .welcome-page-banner-content-lyrics {
+        background-color: unset !important;
+      }
+
+      .welcome-page-banner-content-subtext {
+        background-color: unset !important;
+      }
+
+      .welcome-page-banner-content-subtext-icon {
+        background-color: unset !important;
+        margin: 5px !important;
+      }
+    }
+  }
+
+  .welcome-page-banner-browse {
+    bottom: -0.1em !important;
+    width: 100%;
+    left: unset !important;
+    display: flex;
+    place-content: center;
+    font-size: 1.5em !important;
+    padding: unset !important;
+  }
+}
+
+
+.welcome-page-banner {
+  width: 100%;
+  background: url("../../../assets/img/banner-dinnytm.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 95vh;
+  height: fit-content;
+  display: flex;
+  position: relative;
+
+  .welcome-page-banner-content {
+    margin: 185px 10% 123px auto;
+    width: 100%;
+    max-width: 462px;
+    padding: 40px 51.5px 25px;
+    height: fit-content;
+    background-color: var(--secondary-black);
+    color: var(--primarycolour);
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    font-weight: 800;
+
+    .welcome-page-banner-content-lyrics {
+      margin-bottom: 15px;
+      background-color: var(--secondary-black);
+    }
+
+    .welcome-page-banner-content-subtext {
+      padding: 15px 5px 5px 5px;
+      text-transform: none;
+      text-align: right;
+      font-size: 1rem;
+      background-color: var(--secondary-black);
+
+      .welcome-page-banner-content-subtext-icon {
+        cursor: pointer;
+        margin: 5px 4.7px;
+        font-size: 1.5rem;
+        text-decoration: none;
+      }
+
+
+    }
+  }
+
+  .welcome-page-banner-browse {
+    // border
+    left: calc(50% - 37px);
+    bottom: 27px;
+    position: absolute;
+    font-size: 1.9rem;
+    font-size: 3rem;
+    text-decoration: none;
+    color: var(--primarycolour);
+    padding: 15px 17.5px;
+    background-color: var(--secondary-black);
+  }
+}
+
+// screen breakpoint value

@@ -1,0 +1,123 @@
+.discography-card {
+  padding: 2em;
+  max-height: 45vh;
+  background-color: var(--secondary-black);
+  border: 1px solid #171717;
+  display: flex;
+  flex-flow: row;
+  margin: 1em 0;
+  overflow: hidden;
+
+  .discography-card-image {
+    height: 30vh;
+    background-color: transparent;
+
+    img {
+      height: 40vh;
+      position: relative;
+      top: -2.1rem;
+      left: -2.1rem;
+
+      &:hover {
+        transition: 1s;
+        transform: scale(1.2);
+      }
+    }
+  }
+
+  .discography-card-details {
+    width: 100%;
+    background-color: transparent;
+    padding-left: 2.5rem;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+
+    .discography-card-details-container {
+      display: flex;
+      flex-flow: column;
+      background-color: transparent;
+
+      .discography-card-details-title {
+        font-size: 2.25rem;
+        background-color: transparent;
+        margin: .5rem 0;
+      }
+
+      .discography-card-details-artist {
+        margin: .5rem 0;
+        font-size: 1.35rem;
+        color: white;
+        background-color: transparent;
+      }
+
+      .discography-card-details-url {
+        font-size: 1.1rem;
+        background-color: transparent;
+        margin-bottom: 1em;
+        color: var(--grey2);
+        text-decoration: none;
+      }
+    }
+
+    .discography-card-details-links {
+      display: flex;
+      flex-flow: row;
+      justify-content: flex-start;
+      background-color: transparent;
+
+      .discography-card-details-links-button {
+        margin: 1rem 0;
+        padding: .5em 1em;
+        font-size: 1.25rem;
+        text-decoration: none;
+
+        span {
+          background-color: transparent;
+          margin: 0 2.5px;
+        }
+
+        &:hover {
+          transition: 1s;
+          background-color: transparent;
+          color: white;
+        }
+
+        &:first-of-type {
+          margin-left: unset;
+        }
+
+        i {
+          background-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 700px) {
+  .discography-card {
+    flex-flow: column !important;
+    height: 70vh !important;
+    max-height: 70vh !important;
+    overflow-y: scroll;
+
+    .discography-card-image {
+      height: 40.5vh;
+      display: grid;
+      place-content: center;
+    }
+
+    .discography-card-details {
+      padding: unset !important;
+    }
+
+    .discography-card-details-links .discography-card-details-links-button {
+      padding: 1em;
+
+      span {
+        display: none;
+      }
+    }
+  }
+}

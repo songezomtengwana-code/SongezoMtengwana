@@ -1,0 +1,73 @@
+[{
+    "_id": 1,
+    "name": "a m a r i",
+    "artist": "J. Cole",
+    "album": "t h e . o f f . s e a s o n",
+    "art": "./assets/images/theoffseason.JPG",
+    "track": 2,
+    "year": "2021"
+  },
+  {
+    "_id": 2,
+    "name": "DEVASTATED",
+    "artist": "Joey Bada$$",
+    "album": "All Amerikkan Bada$$",
+    "art": "./assets/images/allamerrikkanbadass.JPG",
+    "track": 3,
+    "year": "2020"
+  },
+  {
+    "_id": 3,
+    "name": "Chunky",
+    "artist": "Bruno Mars",
+    "album": "24K Magic",
+    "art": "./assets/images/2kmagic.JPG",
+    "track": 2,
+    "year": "2019"
+  },
+  {
+    "_id": 4,
+    "name": "34 + 35",
+    "artist": "Ariana Grande",
+    "album": "Positions",
+    "art": "./assets/images/positions.JPG",
+    "track": 3,
+    "year": "2020"
+  },
+  {
+    "_id": 5,
+    "name": "DUCKWORTH.",
+    "artist": "Kendrick Lamar",
+    "album": "DAMN",
+    "art": "./assets/images/damn.JPG",
+    "track": 7,
+    "year": "2020"
+  },
+  {
+    "_id": 6,
+    "name": "Rise Up",
+    "artist": "Big Sean",
+    "album": "Detroit 2",
+    "art": "./assets/images/detroit2.JPG",
+    "track": 9,
+    "year": "2021"
+  },
+  {
+    "_id": 7,
+    "name": "27 Summers",
+    "artist": "Nas",
+    "album": "Kings Disease",
+    "art": "./assets/images/kingsdieseas.JPG",
+    "track": 2,
+    "year": "2020"
+  },
+  {
+    "_id": 8,
+    "name": "Seeing Green",
+    "artist": "Nicki Minaj",
+    "album": "Beam Me Up Scooty",
+    "art": "./assets/images/beammeupscooty.JPG",
+    "track": 1,
+    "year": "2020"
+  }
+]

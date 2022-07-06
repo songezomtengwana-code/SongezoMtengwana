@@ -1,0 +1,87 @@
+<section class="discography" *ngIf="activeArtist">
+  <section class="discography-container">
+    <nav class="discography-container-nav" id="navbar" onscroll="bgswitch()">
+      <div
+        class="bi bi-arrow-left"
+        routerLink="/"
+        style="cursor: pointer; background: transparent"
+      ></div>
+      <div class="discography-container-nav-artist" id="artist">
+        {{ activeArtist?.artistname }}
+      </div>
+    </nav>
+    <div class="discography-container-banner">
+      <img
+        [src]="activeArtist?.artistimg"
+        alt=""
+        class="discography-container-banner-img"
+      />
+      <div class="discography-container-banner-details">
+        <div class="discography-container-banner-details-cover">
+          <div class="discography-container-banner-details-title">
+            {{ activeArtist?.artistname }}
+          </div>
+          <span class="discography-container-banner-details-tag"
+            >@{{ activeArtist?.artisttag }}</span
+          >
+          <p class="discography-container-banner-details-bio">
+            ~ {{ activeArtist?.artistbio }}
+          </p>
+        </div>
+        <div class="discography-container-banner-details-links">
+          <a
+            [href]="link.link"
+            [ngClass]="link.fonticoncolor"
+            *ngFor="let link of activeArtist?.importantlinks"
+          >
+            <i [ngClass]="link.fonticon" class="{{ link.fonticoncolor }}"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="discography-container-body">
+      <div class="discography-container-body-title">Latest Work</div>
+      <div class="discography-container-body-latest">
+        <div
+          class="discography-card"
+          *ngFor="let discography of activeArtist?.discography"
+        >
+          <div class="discography-card-image">
+            <img
+              src="../../../assets/img/logo.png"
+              alt=""
+              [srcset]="[discography.imgurl]"
+            />
+          </div>
+          <div class="discography-card-details">
+            <div class="discography-card-details-container">
+              <div class="discography-card-details-title">
+                {{ discography.name }}
+              </div>
+              <p class="discography-card-details-artist bi bi-person">
+                {{ activeArtist?.artistname }}
+              </p>
+              <a
+                routerLink="discography/thegreatstunner"
+                class="discography-card-details-url bi bi-camera"
+              >
+                @thegreatstunner
+              </a>
+            </div>
+            <div class="discography-card-details-links">
+              <a
+                *ngFor="let button of discography.links"
+                [href]="[button.link]"
+                class="discography-card-details-links-button"
+                [ngClass]="[button.linkiconbg]"
+              >
+                <i [ngClass]="[button.linkicon]"></i>
+                <span>{{ button.linkname }}</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</section>

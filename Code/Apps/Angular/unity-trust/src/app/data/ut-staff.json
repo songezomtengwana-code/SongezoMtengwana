@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "name": "nosipho",
+    "rate": 5,
+    "description": "owner and discoverer of unity trust",
+    "imgUrl": "../../assets/staff-icons/default.png"
+  },
+  {
+    "id": 2,
+    "name": "songezo",
+    "rate": 2,
+    "description": "young fresh minded creative",
+    "imgUrl": "../../assets/staff-icons/songezo-header.png"
+  },
+  {
+    "id": 3,
+    "name": "nwabisa",
+    "rate": 4,
+    "description": "special confident and helpful",
+    "imgUrl": "../../assets/staff-icons/default.png"
+  }
+]

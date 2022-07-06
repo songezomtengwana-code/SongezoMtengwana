@@ -1,0 +1,27 @@
+<div class="discography-card">
+  <div class="discography-card-image">
+    <img [src]="projectimage" [alt]="projectname" srcset="" />
+  </div>
+  <div class="discography-card-details">
+    <div class="discography-card-details-container">
+      <div class="discography-card-details-title">
+        {{ projectname }}
+      </div>
+      <p class="discography-card-details-artist bi bi-person">
+        {{ artist }}
+      </p>
+      <div class="discography-card-details-url bi bi-link" title="copy link">
+        {{ projectlink }}
+      </div>
+    </div>
+    <div class="discography-card-details-links">
+      <a
+        [href]="projectlink"
+        class="discography-card-details-links-button"
+        [ngClass]="[projectbgcolor]"
+      >
+        <i [ngClass]="[projecticon]"></i> Vist
+      </a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<section class="vh100 contacts background-clear-white" id="contact-us">
+  <section class="contacts-container container">
+    <section class="contacts-container-side contacts-container-left">
+      <app-contact-form></app-contact-form>
+    </section>
+    <section
+      class="contacts-container-side contacts-container-right"
+      *ngFor="let contact of contacts"
+    >
+      <h1 class="contacts-container-header">More</h1>
+      <div class="contacts-container-side-data">
+        <div class="contacts-container-side-data-icon">
+          <i class="bi bi-pin-map-fill"></i>
+        </div>
+        <div class="contacts-container-side-data-info">
+          <p>{{ contact.location }}</p>
+        </div>
+      </div>
+      <div class="contacts-container-side-data">
+        <div class="contacts-container-side-data-icon">
+          <i class="bi bi-phone-fill"></i>
+        </div>
+        <div class="contacts-container-side-data-info">
+          <p>{{ contact.landline }}</p>
+        </div>
+      </div>
+      <div
+        class="contacts-container-side-data"
+        title="redirect to google maps for directions"
+      >
+        <a href="https://g.page/CC-Internet-Cafe">
+          <img
+            src="{{ contact.imgUrl }}"
+            alt="Google Maps Location Pin Link"
+            srcset=""
+          />
+        </a>
+      </div>
+    </section>
+  </section>
+</section>

@@ -1,0 +1,102 @@
+<app-navbar></app-navbar>
+<!-- Welcome section of the page -->
+<div class="welcome-page-banner">
+  <!-- <img src="./assets/img/banner-dinnytm.png" alt="" class="welcome-page-banner-img"> -->
+  <div class="welcome-page-banner-content">
+    <div class="welcome-page-banner-content-lyrics">
+      Music is my Daily work noba ke andfuman'into/
+      <br />
+      Ungayeki uphathi pen nephepha kuzade kuvele utshintsho/
+      <br />
+    </div>
+    <div class="welcome-page-banner-content-subtext">
+      ~ Dinny TM, God Blessing
+    </div>
+    <div class="welcome-page-banner-content-subtext no-padding">
+      <a
+        title="view instagram account"
+        href="https://soundcloud.com/dinnytm-za"
+        target="_blank"
+        class="
+          welcome-page-banner-content-subtext-icon
+          bi bi-instagram
+          color-white
+        "
+      ></a>
+      <a
+        title="view facebook"
+        href="https://soundcloud.com/dinnytm-za"
+        target="_blank"
+        class="
+          welcome-page-banner-content-subtext-icon
+          bi bi-facebook-f
+          color-facebook-blue
+        "
+      ></a>
+      <a
+        title="view soundcloud account"
+        href="https://soundcloud.com/dinnytm-za"
+        target="_blank"
+        class="
+          welcome-page-banner-content-subtext-icon
+          bi bi-soundcloud
+          color-soundcloud-orange
+        "
+      ></a>
+      <a
+        title="view spotify account"
+        href="https://open.spotify.com/artist/6T9wZXzG79FWxWX4iiuFVM?si=16b4TNJbROCc5ZyiMT-wNg&dl_branch=1"
+        target="_blank"
+        class="
+          welcome-page-banner-content-subtext-icon
+          bi bi-spotify
+          color-spotify-green
+        "
+      ></a>
+      <a
+        title="view itunes account"
+        href="https://music.apple.com/us/artist/dinny-tm/1545855620"
+        target="_blank"
+        class="
+          welcome-page-banner-content-subtext-icon
+          bi bi-music-note
+          color-itunes-purple
+        "
+      ></a>
+    </div>
+  </div>
+  <a
+    class="welcome-page-banner-browse bi bi-chevron-down uptodown"
+    href="#talent"
+  ></a>
+</div>
+<!-- talent section of page -->
+
+<div class="talent-page-section" id="talent">
+  <div class="talent-page-section-heading">TALENT</div>
+  <div class="talent-page-section-content" *ngIf="undefined !== artists">
+    <app-artist-card
+      *ngFor="let artist of artists"
+      [artistName]="artist?.artistname"
+      [profession]="artist?.artistry[0]"
+      [latestArtistry]="[
+        {
+          imgUrl: artist?.library[0]?.imgurl,
+          title: artist?.library[0]?.title,
+          url: artist?.library[0]?.link
+        },
+        {
+          imgUrl: artist?.library[1]?.imgurl,
+          title: artist?.library[1]?.title,
+          url: artist?.library[1]?.link
+        }
+      ]"
+      (profileClick)="showArtistModal(artist)"
+      [artistImg]="artist?.artistimg"
+    >
+    </app-artist-card>
+  </div>
+</div>
+
+<!-- artist modal -->
+<app-artist-modal></app-artist-modal>
